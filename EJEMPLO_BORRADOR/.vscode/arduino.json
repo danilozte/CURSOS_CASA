@@ -1,0 +1,4 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "CHECK_LOGIN\\CHECK_LOGIN.ino"
+}
